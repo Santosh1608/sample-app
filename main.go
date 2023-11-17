@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Santhosh1608/filter"
+	"github.com/santosh1608/filter"
 )
 
 func main() {
