@@ -10,3 +10,8 @@ func main() {
 	fmt.Println("Sample app")
 	filter.Filter()
 }
+
+func Run() {
+	fmt.Println("running")
+	filter.Filter()
+}
