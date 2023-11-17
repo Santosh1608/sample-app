@@ -9,6 +9,7 @@ import (
 func main() {
 	fmt.Println("Sample app")
 	filter.Filter()
+	Run()
 }
 
 func Run() {
