@@ -1,4 +1,4 @@
-module github.com/santhosh1608/sample-app
+module github.com/santosh1608/sample-app
 
 go 1.21.4
 
